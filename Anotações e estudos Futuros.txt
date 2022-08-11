@@ -1,0 +1,20 @@
+Olá a todos, gostaria de compartilhar com todos, minha evolução na area de programação e proximos objetivos
+
+Habilidades Desenvolvidas
+
+- HTML
+- CSS
+
+Habilidades em Desenvolvimento
+
+- C#
+- .NET
+- SQL SERVER
+
+Habilidades Almejadas
+
+- JavaScript
+- ReactJs
+- JQuery
+- Bootstrap
+- TypeScript
